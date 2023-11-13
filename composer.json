@@ -14,5 +14,6 @@
             "email": "miobjetophp@gmail.com"
         }
     ],
+    "minimum-stability": "stable",
     "require": {}
 }
