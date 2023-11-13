@@ -1,5 +1,5 @@
 {
-    "name": "ramiro/dbconexion",
+    "name": "versoft/dbconexion",
     "description": "mysql - php connection",
     "type": "library",
     "license": "MIT",
