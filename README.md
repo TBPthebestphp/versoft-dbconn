@@ -1,3 +1,9 @@
 # versoft_db-conexion
-# versoft_db-conexion
-# versoft-dbconn
+
+# installation :
+
+<pre>
+
+    composer require versoft/dbconexion
+
+</pre>
